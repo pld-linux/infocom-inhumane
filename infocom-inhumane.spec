@@ -1,16 +1,15 @@
 %define		_name		inhumane
-
 Summary:	Infocom text game - Inhumane
 Summary(pl):	Tekstówka Infocomu - Inhumane
 Name:		infocom-inhumane
 Version:	31415926
-Release:	1
+Release:	2
 License:	free
 Group:		Applications/Games
 Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z5
 # Source0-md5:	84d3ce7ccfafb873736490811a0cc78c
 URL:		http://www.ifarchive.org/
-Requires:	frotz
+Requires:	zcode-wrapper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 

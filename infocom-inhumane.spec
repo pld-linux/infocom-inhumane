@@ -29,8 +29,7 @@ okropnym poszukiwaczem przygód.
 
 %install
 rm -rf $RPM_BUILD_ROOT
-install -d $RPM_BUILD_ROOT%{_bindir}
-install -d $RPM_BUILD_ROOT%{_datadir}/games/zcode
+install -d $RPM_BUILD_ROOT{%{_bindir},%{_datadir}/games/zcode}
 
 cp %{SOURCE0} $RPM_BUILD_ROOT%{_datadir}/games/zcode
 ln -s %{_datadir}/games/zcode/wrapper.sh $RPM_BUILD_ROOT%{_bindir}/%{_name}

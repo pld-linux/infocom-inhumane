@@ -19,6 +19,12 @@ A parody of Infocom's Infidel, written when the author was fifteen,
 then converted to Inform. To collect a treasure, you must show an
 ancient guardian how awful an adventurer you are.
 
+%description -l pl
+Parodia Infidela Infocomu napisana gdy autor mia³ piêtna¶cie lat,
+która nastêpnie zosta³a przerobiona aby korzystaæ z Informu. Aby
+zgromadziæ skarb trzeba wykazaæ antycznemu stra¿nikowi jakim siê jest
+okropnym poszukiwaczem przygód.
+
 %prep
 
 %install

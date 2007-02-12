@@ -1,6 +1,6 @@
 %define		_name		inhumane
 Summary:	Infocom text game - Inhumane
-Summary(pl):	Tekstówka Infocomu - Inhumane
+Summary(pl.UTF-8):   TekstÃ³wka Infocomu - Inhumane
 Name:		infocom-inhumane
 Version:	31415926
 Release:	2
@@ -18,11 +18,11 @@ A parody of Infocom's Infidel, written when the author was fifteen,
 then converted to Inform. To collect a treasure, you must show an
 ancient guardian how awful an adventurer you are.
 
-%description -l pl
-Parodia Infidela Infocomu napisana gdy autor mia³ piêtna¶cie lat,
-która nastêpnie zosta³a przerobiona aby korzystaæ z Informu. Aby
-zgromadziæ skarb trzeba wykazaæ antycznemu stra¿nikowi jakim siê jest
-okropnym poszukiwaczem przygód.
+%description -l pl.UTF-8
+Parodia Infidela Infocomu napisana gdy autor miaÅ‚ piÄ™tnaÅ›cie lat,
+ktÃ³ra nastÄ™pnie zostaÅ‚a przerobiona aby korzystaÄ‡ z Informu. Aby
+zgromadziÄ‡ skarb trzeba wykazaÄ‡ antycznemu straÅ¼nikowi jakim siÄ™ jest
+okropnym poszukiwaczem przygÃ³d.
 
 %prep
 

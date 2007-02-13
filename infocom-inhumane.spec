@@ -1,6 +1,6 @@
 %define		_name		inhumane
 Summary:	Infocom text game - Inhumane
-Summary(pl.UTF-8):   Tekstówka Infocomu - Inhumane
+Summary(pl.UTF-8):	Tekstówka Infocomu - Inhumane
 Name:		infocom-inhumane
 Version:	31415926
 Release:	2
